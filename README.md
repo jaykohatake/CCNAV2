@@ -1,3 +1,3 @@
 # CCNAV2
 
-El siguiente material esta montado como ccnav2. Donde se montaran los trabajos realizados por el semestre.
+El siguiente material esta montado como CCNA nivel 2, en el esta el trabajo final del semestre
